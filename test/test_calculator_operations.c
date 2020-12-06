@@ -80,8 +80,6 @@ int main() {
   return 0;
 }
 
-//-------------------------------------------------------ARITHEMETIC OPERATIONS----------------------------------------------
-
 void test_add(void) {
   CU_ASSERT_EQUAL(7.000, add(5,2));
   CU_ASSERT_EQUAL(10.00, add(7,3));
