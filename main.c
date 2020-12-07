@@ -29,7 +29,7 @@ int main()
     printf("11.log10 value\n");
     printf("12.Exponential\n");
     printf("13.To Find a number is even or odd\n");
-    printf("14.Enter the year to know leap year or not \n");
+    printf("14.Enter the year to know leap year or not\n");
     printf("15.Enter an integer to check whether it is prime or not \n"); 
     printf("16.Length Conversion\n");
     printf("\nEnter you choice: ");
